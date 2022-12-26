@@ -53,6 +53,9 @@ class Comment(models.Model):
         db_index=True,
     )
 
+    def __str__(self) -> str:
+        return self.text
+
 
 class Follow(models.Model):
     user = models.ForeignKey(

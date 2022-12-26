@@ -64,7 +64,7 @@ python manage.py runserver
 
 Документация для API Yatube в формате Redoc:
 
-```
+```HTTP
 http://127.0.0.1:8000/redoc/
 ```
 
