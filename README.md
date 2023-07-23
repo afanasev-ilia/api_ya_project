@@ -1,27 +1,27 @@
-# api_final_yatube
+# api_ya_project
 
-api_final_yatube
+api_ya_project
 
-[![CI](https://github.com/LihieTapki/api_final_yatube)
+[![CI](https://github.com/LihieTapki/api_ya_project)
 
 ## Описание
 
-API интерфейс для обмена данными c проектом yatube
+API интерфейс для обмена данными c проектом ya_project
 
-### Технологии
+## Технологии
 
 Python 3.7
 
-#### Как запустить проект
+## Как запустить проект
 
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```bash
-git clone https://github.com/LihieTapki/api_final_yatube
+git clone https://github.com/LihieTapki/api_ya_project
 ```
 
 ```bash
-cd yatube_api
+cd api_ya_project
 ```
 
 Cоздать и активировать виртуальное окружение:
@@ -68,6 +68,6 @@ python manage.py runserver
 http://127.0.0.1:8000/redoc/
 ```
 
-##### Автор
+## Автор
 
 Илья Афанасьев
