@@ -1,8 +1,6 @@
 # api_ya_project
 
-api_ya_project
-
-[![CI](https://github.com/afanasev-ilia/api_ya_project)
+(https://github.com/afanasev-ilia/api_ya_project)
 
 ## Описание
 
