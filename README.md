@@ -2,7 +2,7 @@
 
 api_ya_project
 
-[![CI](https://github.com/LihieTapki/api_ya_project)
+[![CI](https://github.com/afanasev-ilia/api_ya_project)
 
 ## Описание
 
@@ -10,14 +10,14 @@ API интерфейс для обмена данными c проектом ya_
 
 ## Технологии
 
-Python 3.7
+Python 3.7 Django REST framework 3.12.4
 
 ## Как запустить проект
 
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```bash
-git clone https://github.com/LihieTapki/api_ya_project
+git clone https://github.com/afanasev-ilia/api_ya_project
 ```
 
 ```bash
@@ -62,7 +62,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-Документация для API Yatube в формате Redoc:
+Документация для API ya_project в формате Redoc:
 
 ```HTTP
 http://127.0.0.1:8000/redoc/
